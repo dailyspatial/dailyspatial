@@ -4,6 +4,7 @@ title:  This is a Test
 date:   2019-07-10 14:04:00 +0300
 image:  theater.png
 tags:   [Ambisonics, Staatstheater-Darmstadt, Präsentation]
+published: false
 ---
 Das war die Präsentation von Michael Riekers Bachelorarbeit im Staatstheater. Dort fand auch die Läd naid Sürpries mit einer weiteren Spatial Audio Performance statt.
 
